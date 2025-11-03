@@ -2,7 +2,7 @@
 
 An AI-powered web application for detecting and managing crop diseases using image analysis. Built with React, TypeScript, and Supabase.
 
-🌐 **Live Demo**: [View Application](https://your-deployment-url-here.netlify.app)
+🌐 **Live Demo**: [View Application](https://website-update-n8tv.bolt.host/)
 
 ## Overview
 
